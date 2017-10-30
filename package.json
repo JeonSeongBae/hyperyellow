@@ -1,7 +1,9 @@
 {
   "name": "hyperyellow",
   "version": "0.0.1",
-  "keywords": ["hyper"],
+  "keywords": [
+    "hyper"
+  ],
   "description": "",
   "dependencies": {}
 }
